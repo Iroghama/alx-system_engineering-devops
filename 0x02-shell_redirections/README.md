@@ -5,3 +5,4 @@ The 4-lastlines files prints the last 10 lines of a file to the screen
 The 5-firstlines files prints the first 10 lines of a file to the screen 
 The 6-third-line  file prints the third line of a file to the screen 
 The 8-cwd_state file  contains a script that redirects the output of a command to a file
+The 9-duplicate_last_line file  contains a script that duplicates thelast line of a file by means of output redirection 
