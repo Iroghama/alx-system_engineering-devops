@@ -1,2 +1,6 @@
-#!/bin/bash
+#!bin/bash
+echo -e Hello, Worldn
 echo -e Hello, World\n
+echo -e Hello, World\n
+echo -e "Hello, Worldn"
+echo -e "Hello, World\n"
